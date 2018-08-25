@@ -1,4 +1,4 @@
-package com.example.aditya.festembermainappsplashscreen;
+package com.example.aditya.windsandview;
 
 import org.junit.Test;
 

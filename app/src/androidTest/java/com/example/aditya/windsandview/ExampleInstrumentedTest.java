@@ -1,4 +1,4 @@
-package com.example.aditya.festembermainappsplashscreen;
+package com.example.aditya.windsandview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.aditya.festembermainappsplashscreen", appContext.getPackageName());
+        assertEquals("com.example.aditya.windsandview", appContext.getPackageName());
     }
 }
